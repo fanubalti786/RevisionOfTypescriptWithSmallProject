@@ -3,10 +3,11 @@ Dive into the world of programming with my curated Introduction to Programming s
 
 
 
-# Lecture1(Computer Background)🚀✨
+# Lecture0(Computer Background)🚀✨
 <strong>In this lecture I learn the following points.</strong>
 
 ▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
+
 0:00 - Computer Background
 11:54 - What is a computer?
 14:36 - Binary Language
