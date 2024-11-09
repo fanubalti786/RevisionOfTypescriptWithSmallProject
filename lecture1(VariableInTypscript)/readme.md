@@ -1,4 +1,4 @@
-# Lecture0(Variables in Typescript)🚀✨
+# Lecture1(Variables in Typescript)🚀✨
 <strong>In this lecture I learn the following points.</strong>
 
 
