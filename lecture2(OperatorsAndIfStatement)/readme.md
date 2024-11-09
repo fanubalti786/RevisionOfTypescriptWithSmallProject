@@ -24,4 +24,4 @@
 02:10:00 - If Statement
 
 
-*********** 😍 Must Watch these Playlist For Web & Mobile app Development 😍 ***********
+*********** 😍 Must see this Playlist For Web & Mobile app Development 😍 ***********
